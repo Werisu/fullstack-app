@@ -1,0 +1,10 @@
+{
+  "name": "progression-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "projectType": "application",
+  "sourceRoot": "apps/progression-e2e/src",
+  "tags": [],
+  "implicitDependencies": ["progression"],
+  "// targets": "to see all targets run: nx show project progression-e2e --web",
+  "targets": {}
+}
